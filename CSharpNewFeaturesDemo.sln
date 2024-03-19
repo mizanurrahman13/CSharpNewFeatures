@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordDemo", "CSharp9\Recor
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "InheritanceVsInterface", "InheritanceVsInterface", "{D4F78E63-D45C-4E05-A6B7-F34737D992AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OODemo", "InheritanceVsInterface\OODemo\OODemo.csproj", "{FDA628FA-8811-4916-A88E-7BD13FDA16CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OODemo", "InheritanceVsInterface\OODemo\OODemo.csproj", "{FDA628FA-8811-4916-A88E-7BD13FDA16CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterOODemo", "InheritanceVsInterface\BetterOODemo\BetterOODemo.csproj", "{CA00E4E5-DFAB-427B-B5C1-67CBA7F4DF00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterOODemo", "InheritanceVsInterface\BetterOODemo\BetterOODemo.csproj", "{CA00E4E5-DFAB-427B-B5C1-67CBA7F4DF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp12", "Csharp12\Csharp12\Csharp12.csproj", "{F796E84E-A6E8-4718-AD11-088594D9A0AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +51,10 @@ Global
 		{CA00E4E5-DFAB-427B-B5C1-67CBA7F4DF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA00E4E5-DFAB-427B-B5C1-67CBA7F4DF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA00E4E5-DFAB-427B-B5C1-67CBA7F4DF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F796E84E-A6E8-4718-AD11-088594D9A0AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F796E84E-A6E8-4718-AD11-088594D9A0AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F796E84E-A6E8-4718-AD11-088594D9A0AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F796E84E-A6E8-4718-AD11-088594D9A0AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
