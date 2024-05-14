@@ -1,0 +1,6 @@
+@CQRSandMediatR_HostAddress = http://localhost:5265
+
+GET {{CQRSandMediatR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
