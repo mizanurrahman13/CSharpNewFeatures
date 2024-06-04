@@ -1,26 +1,27 @@
 ﻿public class LockerOpenThief
 {
-    public int GetLastOpenedLocker(int n)
+    public int GetLastOpenedLocker(int N)
     {
-        bool[] lockers = new bool[n];
-        int lastOne = 0;
+            // Initialize all lockers as closed (false)
+            bool[] lockers = new bool[N + 1];
 
-        // Initialize all lockers as closed (false)
-        for (int i = 0; i < n; i++)
-        {
-            lockers[i] = false;
-        }
-
-        for (int i=0; i<n; i++)
-        {
-            if (i == i+1)
+            for (int pass = 1; pass <= N; pass++)
             {
-                lockers[i] = true;
-                lastOne = i;
+                for (int locker = pass; locker <= N; locker += pass)
+                {
+                    // Toggle the locker state (open if closed, close if open)
+                    lockers[locker] = !lockers[locker];
+                }
             }
-        }
 
-        return lastOne;
-    }
+            // Find the last opened locker
+            for (int locker = N; locker >= 1; locker--)
+            {
+                if (lockers[locker])
+                    return locker;
+            }
+
+            return -1; // No locker opened
+        }
 }
 
