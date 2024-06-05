@@ -113,59 +113,75 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC34_FindFirstandLastPositi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC46_Permutations", "LC46_Permutations\LC46_Permutations.csproj", "{AE181DBA-530B-4C4A-9A98-114EE1F61B86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC48_RotateImage", "LC48_RotateImage\LC48_RotateImage.csproj", "{7DFEC213-50EA-47B3-8202-E1A924D95C3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC48_RotateImage", "LC48_RotateImage\LC48_RotateImage.csproj", "{7DFEC213-50EA-47B3-8202-E1A924D95C3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC1886_DetermineWhetherMatrixCanBeObtainedByRotation", "LC1886_DetermineWhetherMatrixCanBeObtainedByRotation\LC1886_DetermineWhetherMatrixCanBeObtainedByRotation.csproj", "{BD3E3C83-3FE2-483C-9724-B19FEE5F8E91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC1886_DetermineWhetherMatrixCanBeObtainedByRotation", "LC1886_DetermineWhetherMatrixCanBeObtainedByRotation\LC1886_DetermineWhetherMatrixCanBeObtainedByRotation.csproj", "{BD3E3C83-3FE2-483C-9724-B19FEE5F8E91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3158_FindtheXORofNumbersWhichAppearTwice", "LC3158_FindtheXORofNumbersWhichAppearTwice\LC3158_FindtheXORofNumbersWhichAppearTwice.csproj", "{0A6FF069-A51B-4F9E-873D-6F54C1E8EC7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3158_FindtheXORofNumbersWhichAppearTwice", "LC3158_FindtheXORofNumbersWhichAppearTwice\LC3158_FindtheXORofNumbersWhichAppearTwice.csproj", "{0A6FF069-A51B-4F9E-873D-6F54C1E8EC7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3151_SpecialArrayI", "LC3151_SpecialArrayI\LC3151_SpecialArrayI.csproj", "{25D7E8EF-BAA9-407C-A522-2689C58A9A7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3151_SpecialArrayI", "LC3151_SpecialArrayI\LC3151_SpecialArrayI.csproj", "{25D7E8EF-BAA9-407C-A522-2689C58A9A7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC957_PrisonCellsAfterNDays", "LC957_PrisonCellsAfterNDays\LC957_PrisonCellsAfterNDays.csproj", "{0BAF896C-DE50-4D5F-A921-C351B77E37C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC957_PrisonCellsAfterNDays", "LC957_PrisonCellsAfterNDays\LC957_PrisonCellsAfterNDays.csproj", "{0BAF896C-DE50-4D5F-A921-C351B77E37C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC454_4SumII", "LC454_4SumII\LC454_4SumII.csproj", "{FA95E724-155A-47D7-B60B-6DBB14D122EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC454_4SumII", "LC454_4SumII\LC454_4SumII.csproj", "{FA95E724-155A-47D7-B60B-6DBB14D122EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC18_4Sum", "LC18_4Sum\LC18_4Sum.csproj", "{5D56FAC1-9960-4017-AD7E-F2734A329750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC18_4Sum", "LC18_4Sum\LC18_4Sum.csproj", "{5D56FAC1-9960-4017-AD7E-F2734A329750}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC15_3Sum", "LC15_3Sum\LC15_3Sum.csproj", "{052C18B0-3644-4F40-BCB1-4F913E322F8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC15_3Sum", "LC15_3Sum\LC15_3Sum.csproj", "{052C18B0-3644-4F40-BCB1-4F913E322F8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheThirdProblem", "TheThirdProblem\TheThirdProblem.csproj", "{7B811753-7539-4A68-9345-0AF171C8C15E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheThirdProblem", "TheThirdProblem\TheThirdProblem.csproj", "{7B811753-7539-4A68-9345-0AF171C8C15E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Toph", "Toph", "{5CD9FF11-7098-4676-98B6-1FC3AF779BE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecentArrays", "DecentArrays\DecentArrays.csproj", "{EDC7F02F-24E0-4F95-80BD-3CF14053BC2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecentArrays", "DecentArrays\DecentArrays.csproj", "{EDC7F02F-24E0-4F95-80BD-3CF14053BC2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetUnion", "SetUnion\SetUnion.csproj", "{EBE2A840-C4DD-40D7-AD84-E5D3AEBD9F8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetUnion", "SetUnion\SetUnion.csproj", "{EBE2A840-C4DD-40D7-AD84-E5D3AEBD9F8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC371_SumofTwoIntegers", "LC371_SumofTwoIntegers\LC371_SumofTwoIntegers.csproj", "{C3C5374E-9A76-45FA-8EF6-C0547960CD3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC371_SumofTwoIntegers", "LC371_SumofTwoIntegers\LC371_SumofTwoIntegers.csproj", "{C3C5374E-9A76-45FA-8EF6-C0547960CD3F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeetCode", "LeetCode", "{1F8F722C-A8BE-41FD-8A81-A1A6693D726C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC347_TopKFrequentElements", "LC347_TopKFrequentElements\LC347_TopKFrequentElements.csproj", "{EA22E663-02C8-422B-8D60-F3BB5365DAC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC347_TopKFrequentElements", "LC347_TopKFrequentElements\LC347_TopKFrequentElements.csproj", "{EA22E663-02C8-422B-8D60-F3BB5365DAC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC55_JumpGame", "LC55_JumpGame\LC55_JumpGame.csproj", "{61846B42-40BF-45A4-B6D5-0A9F953F0545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC55_JumpGame", "LC55_JumpGame\LC55_JumpGame.csproj", "{61846B42-40BF-45A4-B6D5-0A9F953F0545}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3162_FindtheNumberofGoodPairsI", "LC3162_FindtheNumberofGoodPairsI\LC3162_FindtheNumberofGoodPairsI.csproj", "{BD894198-D9EE-424D-94DA-07765C4C25E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3162_FindtheNumberofGoodPairsI", "LC3162_FindtheNumberofGoodPairsI\LC3162_FindtheNumberofGoodPairsI.csproj", "{BD894198-D9EE-424D-94DA-07765C4C25E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3164_FindtheNumberofGoodPairsII", "LC3164_FindtheNumberofGoodPairsII\LC3164_FindtheNumberofGoodPairsII.csproj", "{C8FC8050-E2D0-4681-A292-AEEF74C35930}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3164_FindtheNumberofGoodPairsII", "LC3164_FindtheNumberofGoodPairsII\LC3164_FindtheNumberofGoodPairsII.csproj", "{C8FC8050-E2D0-4681-A292-AEEF74C35930}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3142_CheckifGridSatisfiesConditions", "LC3142_CheckifGridSatisfiesConditions\LC3142_CheckifGridSatisfiesConditions.csproj", "{0C7F342C-284B-401E-B52D-C810781E778F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3142_CheckifGridSatisfiesConditions", "LC3142_CheckifGridSatisfiesConditions\LC3142_CheckifGridSatisfiesConditions.csproj", "{0C7F342C-284B-401E-B52D-C810781E778F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3122_MinimumNumberofOperationstoSatisfyConditions", "LC3122_MinimumNumberofOperationstoSatisfyConditions\LC3122_MinimumNumberofOperationstoSatisfyConditions.csproj", "{A8594BEC-81B2-45D2-AE0F-0FE26D33EA33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3122_MinimumNumberofOperationstoSatisfyConditions", "LC3122_MinimumNumberofOperationstoSatisfyConditions\LC3122_MinimumNumberofOperationstoSatisfyConditions.csproj", "{A8594BEC-81B2-45D2-AE0F-0FE26D33EA33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3131_FindtheIntegerAddedtoArrayI", "LC3131_FindtheIntegerAddedtoArrayI\LC3131_FindtheIntegerAddedtoArrayI.csproj", "{21E09098-73B4-41D9-AC2F-B477D08A7F8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3131_FindtheIntegerAddedtoArrayI", "LC3131_FindtheIntegerAddedtoArrayI\LC3131_FindtheIntegerAddedtoArrayI.csproj", "{21E09098-73B4-41D9-AC2F-B477D08A7F8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3132_FindtheIntegerAddedtoArrayII", "LC3132_FindtheIntegerAddedtoArrayII\LC3132_FindtheIntegerAddedtoArrayII.csproj", "{F3BB9014-A8CB-486C-83B5-F9AC7D6601C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3132_FindtheIntegerAddedtoArrayII", "LC3132_FindtheIntegerAddedtoArrayII\LC3132_FindtheIntegerAddedtoArrayII.csproj", "{F3BB9014-A8CB-486C-83B5-F9AC7D6601C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC3127_MakeaSquarewiththeSameColor", "LC3127_MakeaSquarewiththeSameColor\LC3127_MakeaSquarewiththeSameColor.csproj", "{1CB10886-ED53-4A21-A3A3-15CBF382AD6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC3127_MakeaSquarewiththeSameColor", "LC3127_MakeaSquarewiththeSameColor\LC3127_MakeaSquarewiththeSameColor.csproj", "{1CB10886-ED53-4A21-A3A3-15CBF382AD6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC1929_ConcatenationofArray", "LC1929_ConcatenationofArray\LC1929_ConcatenationofArray.csproj", "{C795C952-366D-499E-8E09-E7D66299C982}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC1929_ConcatenationofArray", "LC1929_ConcatenationofArray\LC1929_ConcatenationofArray.csproj", "{C795C952-366D-499E-8E09-E7D66299C982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC2011_FinalValueofVariableAfterPerformingOperations", "LC2011_FinalValueofVariableAfterPerformingOperations\LC2011_FinalValueofVariableAfterPerformingOperations.csproj", "{5DDE0B01-34F5-4498-AAF6-E29418ECCF4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC2011_FinalValueofVariableAfterPerformingOperations", "LC2011_FinalValueofVariableAfterPerformingOperations\LC2011_FinalValueofVariableAfterPerformingOperations.csproj", "{5DDE0B01-34F5-4498-AAF6-E29418ECCF4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC322_CoinChange", "LC322_CoinChange\LC322_CoinChange.csproj", "{F3674776-206D-4D30-89B6-BF6BD4284FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC322_CoinChange", "LC322_CoinChange\LC322_CoinChange.csproj", "{F3674776-206D-4D30-89B6-BF6BD4284FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC287_FindtheDuplicateNumber", "LC287_FindtheDuplicateNumber\LC287_FindtheDuplicateNumber.csproj", "{7456F7E7-DB6B-4B59-AF6C-2002809129E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC287_FindtheDuplicateNumber", "LC287_FindtheDuplicateNumber\LC287_FindtheDuplicateNumber.csproj", "{7456F7E7-DB6B-4B59-AF6C-2002809129E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC279_PerfectSquares", "LeetCode\LC279_PerfectSquares\LC279_PerfectSquares.csproj", "{D7279F2D-9DCD-4BD4-A570-6F9B7CDAAF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC240_Searcha2DMatrixII", "LeetCode\LC240_Searcha2DMatrixII\LC240_Searcha2DMatrixII.csproj", "{11BAD6E2-AC65-4E49-8F5B-417FA545A22C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC238_ProductofArrayExceptSelf", "LeetCode\LC238_ProductofArrayExceptSelf\LC238_ProductofArrayExceptSelf.csproj", "{85E0F8A7-6240-487A-A512-8D8FC2969722}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC237_DeleteNodeinaLinkedList", "LeetCode\LC237_DeleteNodeinaLinkedList\LC237_DeleteNodeinaLinkedList.csproj", "{312F6204-1054-4D0E-A0A3-907CF4E49017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC230_KthSmallestElementinaBST", "LeetCode\LC230_KthSmallestElementinaBST\LC230_KthSmallestElementinaBST.csproj", "{3C7017F0-42B3-4FFC-B145-330401C63E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC227_BasicCalculatorII", "LC227_BasicCalculatorII\LC227_BasicCalculatorII.csproj", "{C601B1AB-66D5-48CB-9359-1E19804A6F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC215_KthLargestElementinanArray", "LeetCode\LC215_KthLargestElementinanArray\LC215_KthLargestElementinanArray.csproj", "{B9013B43-B4D1-4CA7-B11E-F9353E4925C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC204_CountPrimes", "LeetCode\LC204_CountPrimes\LC204_CountPrimes.csproj", "{EA76F60E-A974-45EF-956E-3B144EB7142C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -485,6 +501,38 @@ Global
 		{7456F7E7-DB6B-4B59-AF6C-2002809129E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7456F7E7-DB6B-4B59-AF6C-2002809129E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7456F7E7-DB6B-4B59-AF6C-2002809129E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7279F2D-9DCD-4BD4-A570-6F9B7CDAAF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7279F2D-9DCD-4BD4-A570-6F9B7CDAAF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7279F2D-9DCD-4BD4-A570-6F9B7CDAAF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7279F2D-9DCD-4BD4-A570-6F9B7CDAAF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11BAD6E2-AC65-4E49-8F5B-417FA545A22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11BAD6E2-AC65-4E49-8F5B-417FA545A22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11BAD6E2-AC65-4E49-8F5B-417FA545A22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11BAD6E2-AC65-4E49-8F5B-417FA545A22C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E0F8A7-6240-487A-A512-8D8FC2969722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E0F8A7-6240-487A-A512-8D8FC2969722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E0F8A7-6240-487A-A512-8D8FC2969722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E0F8A7-6240-487A-A512-8D8FC2969722}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312F6204-1054-4D0E-A0A3-907CF4E49017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312F6204-1054-4D0E-A0A3-907CF4E49017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312F6204-1054-4D0E-A0A3-907CF4E49017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312F6204-1054-4D0E-A0A3-907CF4E49017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7017F0-42B3-4FFC-B145-330401C63E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7017F0-42B3-4FFC-B145-330401C63E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7017F0-42B3-4FFC-B145-330401C63E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7017F0-42B3-4FFC-B145-330401C63E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C601B1AB-66D5-48CB-9359-1E19804A6F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C601B1AB-66D5-48CB-9359-1E19804A6F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C601B1AB-66D5-48CB-9359-1E19804A6F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C601B1AB-66D5-48CB-9359-1E19804A6F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9013B43-B4D1-4CA7-B11E-F9353E4925C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9013B43-B4D1-4CA7-B11E-F9353E4925C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9013B43-B4D1-4CA7-B11E-F9353E4925C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9013B43-B4D1-4CA7-B11E-F9353E4925C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA76F60E-A974-45EF-956E-3B144EB7142C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA76F60E-A974-45EF-956E-3B144EB7142C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA76F60E-A974-45EF-956E-3B144EB7142C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA76F60E-A974-45EF-956E-3B144EB7142C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -553,6 +601,14 @@ Global
 		{5DDE0B01-34F5-4498-AAF6-E29418ECCF4D} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
 		{F3674776-206D-4D30-89B6-BF6BD4284FAD} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
 		{7456F7E7-DB6B-4B59-AF6C-2002809129E2} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
+		{D7279F2D-9DCD-4BD4-A570-6F9B7CDAAF57} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
+		{11BAD6E2-AC65-4E49-8F5B-417FA545A22C} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
+		{85E0F8A7-6240-487A-A512-8D8FC2969722} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
+		{312F6204-1054-4D0E-A0A3-907CF4E49017} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
+		{3C7017F0-42B3-4FFC-B145-330401C63E0B} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
+		{C601B1AB-66D5-48CB-9359-1E19804A6F09} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
+		{B9013B43-B4D1-4CA7-B11E-F9353E4925C1} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
+		{EA76F60E-A974-45EF-956E-3B144EB7142C} = {1F8F722C-A8BE-41FD-8A81-A1A6693D726C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A5F29C1-2078-458D-8B39-E07E8FFEE6BA}
