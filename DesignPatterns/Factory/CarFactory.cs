@@ -32,3 +32,16 @@ public class CarFactory
         };
     }
 }
+
+/*
+ * When to use =>
+ 1. Object Creation is Complex: This simplifies the client code, as it only needs to call the factory method instead
+        of dealing with the details of object creation.
+ 2. Dependency Management: If a class depends on concrete implementations, using the Factory Pattern allows you to
+        inject the factory as a dependency.
+ 3. Loose Coupling: By using the Factory Pattern, the client code does not need to know the exact class of the objects
+        it create
+ 4. Extensibility: You can simply create new concrete classes and update the factory, without modifying the client code.
+ 5. Unit Testing: Factories can b e easily mocked or replaced with stubs during unit testing, enabling isolated 
+        testing of client code.
+ */
