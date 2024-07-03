@@ -265,19 +265,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC2114_MaximumNumberofWords
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC1689_PartitioningIntoMinimumNumberOfDeciBinaryNumbers", "LeetCode\LC1689_PartitioningIntoMinimumNumberOfDeciBinaryNumbers\LC1689_PartitioningIntoMinimumNumberOfDeciBinaryNumbers.csproj", "{D1446786-437B-4945-B5DB-DA4FF87CA9C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC535_EncodeandDecodeTinyURL", "LeetCode\LC535_EncodeandDecodeTinyURL\LC535_EncodeandDecodeTinyURL.csproj", "{7FF4400C-4BB5-4354-B5B8-F22E298C2442}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC535_EncodeandDecodeTinyURL", "LeetCode\LC535_EncodeandDecodeTinyURL\LC535_EncodeandDecodeTinyURL.csproj", "{7FF4400C-4BB5-4354-B5B8-F22E298C2442}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC1347_MinimumNumberofStepstoMakeTwoStringsAnagram", "LeetCode\LC1347_MinimumNumberofStepstoMakeTwoStringsAnagram\LC1347_MinimumNumberofStepstoMakeTwoStringsAnagram.csproj", "{63C5B8AE-55C2-4AA8-8070-36673722E185}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC1347_MinimumNumberofStepstoMakeTwoStringsAnagram", "LeetCode\LC1347_MinimumNumberofStepstoMakeTwoStringsAnagram\LC1347_MinimumNumberofStepstoMakeTwoStringsAnagram.csproj", "{63C5B8AE-55C2-4AA8-8070-36673722E185}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC910_RemoveAllOccurrencesofaSubstring", "LeetCode\LC910_RemoveAllOccurrencesofaSubstring\LC910_RemoveAllOccurrencesofaSubstring.csproj", "{B38AC261-0647-4494-B5BE-3F8C842A42F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LC910_RemoveAllOccurrencesofaSubstring", "LeetCode\LC910_RemoveAllOccurrencesofaSubstring\LC910_RemoveAllOccurrencesofaSubstring.csproj", "{B38AC261-0647-4494-B5BE-3F8C842A42F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DesignPatterns", "DesignPatterns", "{D4E3FCB4-78EC-46D1-B947-A1965E7DB65A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "DesignPatterns\Factory\Factory.csproj", "{5E8BE77A-BD20-44E4-AF5E-724B0C9F61A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "DesignPatterns\Factory\Factory.csproj", "{5E8BE77A-BD20-44E4-AF5E-724B0C9F61A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "DesignPatterns\Facade\Facade.csproj", "{E983C3A2-853C-4D52-988D-9885977002FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "DesignPatterns\Facade\Facade.csproj", "{E983C3A2-853C-4D52-988D-9885977002FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainResponsibility", "DesignPatterns\ChainResponsibility\ChainResponsibility.csproj", "{1FFD4527-8872-43E6-A10C-B2CE3C10B956}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainResponsibility", "DesignPatterns\ChainResponsibility\ChainResponsibility.csproj", "{1FFD4527-8872-43E6-A10C-B2CE3C10B956}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CQRS", "DesignPatterns\CQRS\CQRS.csproj", "{CEBF3669-4446-4AE7-A1B7-8BDBCBB6CA68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "DesignPatterns\Singleton\Singleton.csproj", "{A7814449-E874-4F15-9ACC-0BC14014F04C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Options", "DesignPatterns\Options\Options.csproj", "{A2192EA0-A5CD-477E-AC70-186B08E0E9E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "DesignPatterns\Decorator\Decorator.csproj", "{E9EB8833-1074-4DA1-9893-396C20541164}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -809,6 +817,22 @@ Global
 		{1FFD4527-8872-43E6-A10C-B2CE3C10B956}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FFD4527-8872-43E6-A10C-B2CE3C10B956}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FFD4527-8872-43E6-A10C-B2CE3C10B956}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBF3669-4446-4AE7-A1B7-8BDBCBB6CA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBF3669-4446-4AE7-A1B7-8BDBCBB6CA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBF3669-4446-4AE7-A1B7-8BDBCBB6CA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBF3669-4446-4AE7-A1B7-8BDBCBB6CA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7814449-E874-4F15-9ACC-0BC14014F04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7814449-E874-4F15-9ACC-0BC14014F04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7814449-E874-4F15-9ACC-0BC14014F04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7814449-E874-4F15-9ACC-0BC14014F04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2192EA0-A5CD-477E-AC70-186B08E0E9E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2192EA0-A5CD-477E-AC70-186B08E0E9E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2192EA0-A5CD-477E-AC70-186B08E0E9E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2192EA0-A5CD-477E-AC70-186B08E0E9E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9EB8833-1074-4DA1-9893-396C20541164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9EB8833-1074-4DA1-9893-396C20541164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9EB8833-1074-4DA1-9893-396C20541164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9EB8833-1074-4DA1-9893-396C20541164}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -930,6 +954,10 @@ Global
 		{5E8BE77A-BD20-44E4-AF5E-724B0C9F61A7} = {D4E3FCB4-78EC-46D1-B947-A1965E7DB65A}
 		{E983C3A2-853C-4D52-988D-9885977002FC} = {D4E3FCB4-78EC-46D1-B947-A1965E7DB65A}
 		{1FFD4527-8872-43E6-A10C-B2CE3C10B956} = {D4E3FCB4-78EC-46D1-B947-A1965E7DB65A}
+		{CEBF3669-4446-4AE7-A1B7-8BDBCBB6CA68} = {D4E3FCB4-78EC-46D1-B947-A1965E7DB65A}
+		{A7814449-E874-4F15-9ACC-0BC14014F04C} = {D4E3FCB4-78EC-46D1-B947-A1965E7DB65A}
+		{A2192EA0-A5CD-477E-AC70-186B08E0E9E5} = {D4E3FCB4-78EC-46D1-B947-A1965E7DB65A}
+		{E9EB8833-1074-4DA1-9893-396C20541164} = {D4E3FCB4-78EC-46D1-B947-A1965E7DB65A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A5F29C1-2078-458D-8B39-E07E8FFEE6BA}
