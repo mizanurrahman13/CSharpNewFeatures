@@ -1,4 +1,6 @@
-﻿using System.Collections.Immutable;
+﻿using System;
+using Csharp12;
+using System.Collections.Immutable;
 using System.Reflection;
 
 var mizan = new Person("Mizanur", "Rahman");
@@ -82,3 +84,58 @@ class Department1
 }
 
 record Person(string FirstName, string LastName);
+
+#region Primary Constructure
+//Employee employee = new Employee("John Doe", 30);
+//employee.DisplayInfo(); // Output: Employee Name: John Doe, Age: 30
+#endregion
+
+#region Collection Expressions
+// Create an array:
+int[] a = [1, 2, 3, 4, 5, 6, 7, 8];
+
+// Create a list:
+List<string> b = ["one", "two", "three"];
+#endregion
+
+#region Inline Collections with Ranges and Slices
+// Inline collection creation
+int[] numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// Using ranges to get a subset
+var middleNumbers = numbers[3..7]; // Gets elements at index 3, 4, 5, and 6
+
+Console.WriteLine("Middle Numbers:");
+foreach (var number in middleNumbers)
+{
+    Console.WriteLine(number);
+}
+
+var firstThree = numbers[..3]; // Gets the first 3 elements
+
+Console.WriteLine("\nFirst Three Numbers:");
+foreach (var number in firstThree)
+{
+    Console.WriteLine(number);
+}
+
+var lastThree = numbers[^3..]; // Gets the last 3 elements
+
+Console.WriteLine("\nLast Three Numbers:");
+foreach (var number in lastThree)
+{
+    Console.WriteLine(number);
+}
+#endregion
+
+#region Default values for lambda expressions
+// Lambda with default parameter value
+var add = (int x = 10, int y = 5) => x + y;
+
+// Using default values
+Console.WriteLine(add());       // Output: 15 (10 + 5)
+
+// Overriding default values
+Console.WriteLine(add(20, 30)); // Output: 50 (20 + 30)
+Console.WriteLine(add(7));      // Output: 12 (7 + 5)
+#endregion

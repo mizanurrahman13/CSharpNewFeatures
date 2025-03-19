@@ -345,6 +345,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "DesignPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp13", "CSharp13\CSharp13.csproj", "{8DC1A76C-A3B5-4E87-8718-858BF3C14613}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp11", "CSharp11\CSharp11.csproj", "{CC67AB95-2429-47A3-AE64-AF08AF2486CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -999,6 +1001,10 @@ Global
 		{8DC1A76C-A3B5-4E87-8718-858BF3C14613}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DC1A76C-A3B5-4E87-8718-858BF3C14613}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DC1A76C-A3B5-4E87-8718-858BF3C14613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC67AB95-2429-47A3-AE64-AF08AF2486CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC67AB95-2429-47A3-AE64-AF08AF2486CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC67AB95-2429-47A3-AE64-AF08AF2486CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC67AB95-2429-47A3-AE64-AF08AF2486CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
