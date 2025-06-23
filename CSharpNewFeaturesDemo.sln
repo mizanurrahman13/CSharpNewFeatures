@@ -393,6 +393,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC990_SatisfiabilityofEqual
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC994_RottingOranges", "LeetCode\Graph\LC994_RottingOranges\LC994_RottingOranges.csproj", "{FF738942-9855-4C62-8A52-1AF92E5107B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC997_FindtheTownJudge", "LeetCode\Graph\LC997_FindtheTownJudge\LC997_FindtheTownJudge.csproj", "{71E2C9AB-D062-4F81-B640-C591196C733D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1131,6 +1133,10 @@ Global
 		{FF738942-9855-4C62-8A52-1AF92E5107B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF738942-9855-4C62-8A52-1AF92E5107B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF738942-9855-4C62-8A52-1AF92E5107B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E2C9AB-D062-4F81-B640-C591196C733D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E2C9AB-D062-4F81-B640-C591196C733D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E2C9AB-D062-4F81-B640-C591196C733D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E2C9AB-D062-4F81-B640-C591196C733D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1302,6 +1308,7 @@ Global
 		{ED456A12-8B4A-4EEA-9ADD-B6DAAA881F40} = {E450B51E-72E3-4538-8CC7-D69522D696D6}
 		{06B5836C-7BED-43C8-9294-9401F789FBE1} = {E450B51E-72E3-4538-8CC7-D69522D696D6}
 		{FF738942-9855-4C62-8A52-1AF92E5107B0} = {E450B51E-72E3-4538-8CC7-D69522D696D6}
+		{71E2C9AB-D062-4F81-B640-C591196C733D} = {E450B51E-72E3-4538-8CC7-D69522D696D6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A5F29C1-2078-458D-8B39-E07E8FFEE6BA}
