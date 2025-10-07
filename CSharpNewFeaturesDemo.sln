@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.3.32811.315
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11018.127 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp8", "CSharp8\CSharp8.csproj", "{F50A6B56-F8A1-477D-BD87-195233156849}"
 EndProject
@@ -394,6 +394,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC994_RottingOranges", "LeetCode\Graph\LC994_RottingOranges\LC994_RottingOranges.csproj", "{FF738942-9855-4C62-8A52-1AF92E5107B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LC997_FindtheTownJudge", "LeetCode\Graph\LC997_FindtheTownJudge\LC997_FindtheTownJudge.csproj", "{71E2C9AB-D062-4F81-B640-C591196C733D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp14", "CSharp14\CSharp14.csproj", "{A3D87BB9-8381-4790-9098-C01C76C69524}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1137,6 +1139,10 @@ Global
 		{71E2C9AB-D062-4F81-B640-C591196C733D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71E2C9AB-D062-4F81-B640-C591196C733D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71E2C9AB-D062-4F81-B640-C591196C733D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3D87BB9-8381-4790-9098-C01C76C69524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D87BB9-8381-4790-9098-C01C76C69524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D87BB9-8381-4790-9098-C01C76C69524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D87BB9-8381-4790-9098-C01C76C69524}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
